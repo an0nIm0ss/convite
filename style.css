@@ -1,0 +1,25 @@
+.texto {
+  font-size: 60px;
+  color: red;
+  font-family: 'IM Fell English SC', serif;
+  text-align: center;
+  cursor: default;
+}
+
+.div-1 {
+  justify-content: center;
+  text-align: center;
+}
+
+.background {
+  background-color: black;
+}
+
+.imgs {
+  width: 67%;
+  height: 85%;
+}
+
+.as {
+  cursor: default;
+}
